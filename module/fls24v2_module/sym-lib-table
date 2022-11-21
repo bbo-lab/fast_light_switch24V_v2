@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "UCC27289")(type "Legacy")(uri "${KIPRJMOD}/lib/UCC27289.lib")(options "")(descr ""))
+  (lib (name "mp1584")(type "Legacy")(uri "${KIPRJMOD}/lib/mp1584.lib")(options "")(descr ""))
+)

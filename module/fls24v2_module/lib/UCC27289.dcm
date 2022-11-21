@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UCC27289
+D CC27289 2.5-A/3.5-A 120-V Half-Bridge Driver with 8-V UVLO and Negative Voltage Handling
+K Half-Bridge Driver
+F https://www.ti.com/lit/ds/symlink/ucc27289.pdf
+$ENDCMP
+#
+#End Doc Library
