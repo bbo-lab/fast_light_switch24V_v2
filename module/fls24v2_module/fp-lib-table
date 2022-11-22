@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "mp1584")(type "KiCad")(uri "${KIPRJMOD}/pretty/mp1584.pretty")(options "")(descr ""))
+  (lib (name "RSPro-BNC-Steckverbinder-526-5858")(type "KiCad")(uri "${KIPRJMOD}/pretty/RSPro-BNC-Steckverbinder-526-5858.pretty")(options "")(descr ""))
 )

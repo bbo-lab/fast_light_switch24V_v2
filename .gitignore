@@ -24,3 +24,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+main_board/fls24v2_main/FastLightSwitch24V-backups/*
+module/fls24v2_module/fls24v2_module-backups/*
